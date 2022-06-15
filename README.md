@@ -32,6 +32,6 @@ Batch size =
 Size =
 Epochs =
 
-- [Modelo](https://colab.research.google.com/drive/1MxOcO_Kb4wxk7srlG7fPc85xoem7ZfBu?usp=sharing)
+- [Modelo](https://github.com/joselra98/Data-Project4/blob/main/Copia_de_Data_Project_4_Modelo.ipynb)
 
 ## ACCURACY =
