@@ -32,7 +32,6 @@ Batch size =
 Size =
 Epochs =
 
-COLAB FINAL......
-
+- [Modelo](https://colab.research.google.com/drive/1MxOcO_Kb4wxk7srlG7fPc85xoem7ZfBu?usp=sharing)
 
 ## ACCURACY =
