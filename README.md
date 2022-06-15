@@ -4,7 +4,7 @@
 ## Meet our team
 
 - [Jose Luis Rodriguez](https://github.com/joselra98)
-- [Luis Andreu](https://github.com/)
+- [Luis Andreu](https://github.com/Luisans8)
 
 ## Descripción
 
