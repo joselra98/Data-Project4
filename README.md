@@ -28,10 +28,11 @@ Para poder transformar el train y el test, sino diispones de Colab Pro, tendrás
 
 ## ENTRENAMIENTO DEL MODELO
 Clasificamos las imágenes de rayos x en diferentes tip: brazos, piernas...utilizando la librería FAST Ai y utilizamos el modelo DENSENET201
-Batch size =
-Size =
-Epochs =
+
+- Batch size 32
+- Size 256
+- Epochs 25
 
 - [Modelo](https://github.com/joselra98/Data-Project4/blob/main/Copia_de_Data_Project_4_Modelo.ipynb)
 
-## ACCURACY =
+## ACCURACY = 0.93902
